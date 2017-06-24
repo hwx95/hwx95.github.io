@@ -1,7 +1,7 @@
 # Site settings
 title: GG Blog
 SEOTitle: 杆杆的博客 | GG Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-2015.jpg
 email: hwx950721@gmail.com
 description: "每个胜利背后都有许多尝试"
 keyword: "GG, GG Blog, 杆杆的博客, hugangan, 胡杆杆, Android, Android Things, Raspberry Pi"
@@ -12,17 +12,17 @@ github_repo: "https://github.com/hwx95/hwx95.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
+weibo_username:     qiubaiying
+#zhihu_username:     qiubaiying
+github_username:    hwx95
 facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
