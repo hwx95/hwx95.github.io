@@ -18,7 +18,7 @@ sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
+weibo_username:     u/2678948242?refer_flag=1001030101_&is_all=1
 #zhihu_username:     qiubaiying
 github_username:    hwx95
 facebook_username:  baiying.qiu.7
@@ -92,18 +92,18 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+#friends: [
+#    {
+#        title: "WY",
+#        href: "http://zhengwuyang.com"
+#   },{
+#      title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },{
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },{
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
+#]
