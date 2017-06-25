@@ -19,10 +19,10 @@ sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in bo
 # SNS settings
 RSS: false
 weibo_username:     u/2678948242?refer_flag=1001030101_&is_all=1
-#zhihu_username:     qiubaiying
+zhihu_username:     胡文鑫
 github_username:    hwx95
-facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
+#facebook_username:  baiying.qiu.7
+jianshu_username:   c66f1246d98f
 #twitter_username:   qiubaiying
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: hwx95
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -69,11 +69,11 @@ disqus_username: qiubaiying
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
