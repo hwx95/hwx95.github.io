@@ -4,14 +4,14 @@ SEOTitle: 杆杆的博客 | GG Blog
 header-img: img/post-bg-2015.jpg
 email: hwx950721@gmail.com
 description: "每个胜利背后都有许多尝试"
-keyword: "GG, GG Blog, 杆杆的博客, hugangan, 胡杆杆, Android, Android Things, Raspberry Pi"
+keyword: "GG, GG Blog, 杆杆的博客, hugangan, 胡杆杆, Android, Android Things, Raspberry Pi, 小程序"
 url: "http://hwx95.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hwx95/hwx95.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "让代码搬运更简单!"
 sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
