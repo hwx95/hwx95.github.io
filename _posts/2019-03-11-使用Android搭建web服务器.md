@@ -39,9 +39,9 @@ tags:
 将大神的sample移植进来根据错误修改一下，成功启动web服务。
 
 ***
->如果不需适配Android4.2机型的童鞋们不用往下看了。
+>如果不需适配19以下API的童鞋不用往下看了。
 
-但是当我把demo程序烧写进Android网关的时候频频报错。很是纳闷，后来终于找到了错误，是大神使用的com.yanzhenjie.andserver:api:2.0.4中有一个类不支持Android4.2（由于这文章是我过了个把月写的，具体哪个找不到了），然后我替换了一下就行了。我替换的库在我上传的demo中有。
+但是当我把demo程序烧写进Android网关的时候频频报错。很是纳闷，后来终于找到了错误，是大神使用的**com.yanzhenjie.andserver:api:2.0.4**库中**StandardCharsets.UTF_8**引用的 **java.nio.charset.StandardCharsets**包不支持 19 以下的API，然后我使用**Charset.forName("UTF-8")**替换了一下就行了。我替换的库在我上传的demo中有。
 
 替换我的库的步骤
 将我的api库拷贝到工程目录下，然后修改工程目录的settings.gradle
@@ -52,6 +52,7 @@ tags:
 然后在app中将下面库注释
 
      implementation 'com.yanzhenjie.andserver:api:2.0.4'
+     
   添加下面代码
   
      implementation project(':api')
